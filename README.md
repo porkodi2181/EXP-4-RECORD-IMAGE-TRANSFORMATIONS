@@ -68,8 +68,8 @@ Display all the transformed images using Matplotlib.
 
 **Developed By**
 
-## Name: Rubasri R
-## Register No: 212224240139
+## Name: PORKODI B
+## Register No: 212224240114
 
 ### 1. Import the Required Libraries and Read the Image
 
